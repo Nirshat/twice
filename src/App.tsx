@@ -11,7 +11,7 @@ const App = () => {
     },
     {
       id: 2,
-      name: "Yoo Jeongyeon",
+      name: "Yoo Jeongyeon My Honey",
       age: "27",
       gender: "Female",
     },
