@@ -1,0 +1,17 @@
+body{
+  padding:0;
+  margin:0;
+}
+
+.main-container{
+  padding:5rem;
+}
+
+.bttns{
+  background: red;
+  padding:.5rem;
+  color:#fff;
+  border:none;
+  margin:0 .5rem 0 0;
+  width:10%;
+}
